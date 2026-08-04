@@ -24,13 +24,13 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ## 🔓 Open-Source Software
 
 ### Full / Self-Hosted Consent Management Platforms
-- **[Klaro](https://github.com/kiprotect/klaro)** — Popular open-source (MIT) consent manager. Lightweight, highly customizable, supports granular categories, auto-blocking of scripts, and works well for GDPR compliance. Can be self-hosted with no external dependencies.
-- **[c15t](https://github.com/c15t/c15t)** — Modern, developer-first open-source consent management framework. Framework-agnostic (React, Next.js, Vue, etc.), headless or with prebuilt UI, supports Google Consent Mode v2, IAB TCF, and full customization while keeping consent logic in your own stack.
-- **[ConsentOS](https://github.com/consentos/consentos)** — Privacy-first, self-hosted cookie consent management platform positioned as an alternative to OneTrust, Cookiebot, and CookieYes. Includes banner, auto-blocking, scanning, compliance checks, and audit trails.
-- **CookieConsent by Orestbida** and related modern JavaScript libraries — Accessible, customizable open-source consent banners with good documentation and active community use.
+- **[CookieConsent by Orestbida](https://github.com/orestbida/cookieconsent)** [![GitHub stars](https://img.shields.io/github/stars/orestbida/cookieconsent?style=social&color=white)](https://github.com/orestbida/cookieconsent/stargazers) and related modern JavaScript libraries — Accessible, customizable open-source consent banners with good documentation and active community use.
+- **[c15t](https://github.com/c15t/c15t)** [![GitHub stars](https://img.shields.io/github/stars/c15t/c15t?style=social&color=white)](https://github.com/c15t/c15t/stargazers) — Modern, developer-first open-source consent management framework. Framework-agnostic (React, Next.js, Vue, etc.), headless or with prebuilt UI, supports Google Consent Mode v2, IAB TCF, and full customization while keeping consent logic in your own stack.
+- **[Klaro](https://github.com/kiprotect/klaro)** [![GitHub stars](https://img.shields.io/github/stars/kiprotect/klaro?style=social&color=white)](https://github.com/kiprotect/klaro/stargazers) — Popular open-source (MIT) consent manager. Lightweight, highly customizable, supports granular categories, auto-blocking of scripts, and works well for GDPR compliance. Can be self-hosted with no external dependencies.
+- **[ConsentOS](https://github.com/consentos/consentos)** [![GitHub stars](https://img.shields.io/github/stars/consentos/consentos?style=social&color=white)](https://github.com/consentos/consentos/stargazers) — Privacy-first, self-hosted cookie consent management platform positioned as an alternative to OneTrust, Cookiebot, and CookieYes. Includes banner, auto-blocking, scanning, compliance checks, and audit trails.
 
 ### Lightweight Open-Source Libraries & Widgets
-- **[Osano Cookie Consent](https://github.com/osano/cookieconsent)** — One of the most widely used open-source JavaScript cookie consent libraries (MIT). Lightweight, free, and designed for GDPR, CCPA, and similar laws. The commercial Osano platform is separate.
+- **[Osano Cookie Consent](https://github.com/osano/cookieconsent)** [![GitHub stars](https://img.shields.io/github/stars/osano/cookieconsent?style=social&color=white)](https://github.com/osano/cookieconsent/stargazers) — One of the most widely used open-source JavaScript cookie consent libraries (MIT). Lightweight, free, and designed for GDPR, CCPA, and similar laws. The commercial Osano platform is separate.
 - Community projects such as ConsentStack CMP, 68publishers consent tools, and various GTM-friendly cookie bars that provide banner + consent storage functionality.
 
 ### WordPress & Ecosystem Options
