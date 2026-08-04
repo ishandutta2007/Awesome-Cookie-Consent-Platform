@@ -8,13 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Cookiebot](https://www.cookiebot.com/)** (by Usercentrics) — Popular CMP with automatic cookie scanning, consent logging, and strong compliance features for GDPR and other laws.
-- **[Usercentrics](https://usercentrics.com/)** — Enterprise-grade consent management platform with advanced customization and multi-domain support.
-- **[OneTrust](https://www.onetrust.com/)** — Comprehensive privacy and consent management suite widely used by large organizations.
-- **[Didomi](https://www.didomi.io/)** — Modern CMP focused on consent, preference management, and compliance.
-- **[Consentmanager](https://www.consentmanager.net/)** — Flexible consent management solution with multi-language and geo-targeting support.
-- **[Osano](https://www.osano.com/)** — Privacy platform that includes consent management (also maintains a popular open-source cookie consent library).
-- **[Iubenda](https://www.iubenda.com/)**, **[Termly](https://termly.io/)**, **[Crownpeak](https://www.crownpeak.com/)**, **[Complianz](https://complianz.io/)** — Widely used CMPs and privacy tools, especially popular with mid-market sites and WordPress users.
+| Platform | Description | Pricing Tiers | Free Tier / Limits |
+|----------|-------------|---------------|---------------------|
+| **[Cookiebot](https://www.cookiebot.com/)** (by Usercentrics) | Popular CMP with automatic cookie scanning, consent logging, and strong compliance features for GDPR and other laws. | Free; Premium Lite from ~€7/mo; Premium Medium from ~€30/mo; Premium Large from ~€50/mo | ✅ Free: 1 domain, up to 50 subpages, no custom branding |
+| **[Usercentrics](https://usercentrics.com/)** | Enterprise-grade consent management platform with advanced customization and multi-domain support. | Free; Essential from ~€7/mo; Pro from ~€30/mo; Business from ~€50/mo; Enterprise (custom) | ✅ Free: 1 domain, ~1,000 sessions/mo |
+| **[OneTrust](https://www.onetrust.com/)** | Comprehensive privacy and consent management suite widely used by large organizations. | From ~$10,000/yr (modular, usage-based); Enterprise $50K–$300K+/yr — contact sales | ❌ No free tier |
+| **[Didomi](https://www.didomi.io/)** | Modern CMP focused on consent, preference management, and compliance. | Essential / Advanced / Premium — all custom quote (contact sales) | ❌ No free tier |
+| **[Consentmanager](https://www.consentmanager.net/)** | Flexible consent management solution with multi-language and geo-targeting support. | Free; Starter from €23/mo; Essential from €59/mo; Professional from €219/mo; Enterprise (custom) | ✅ Free: 1 domain, 5,000 pageviews/mo, Consentmanager branding |
+| **[Osano](https://www.osano.com/)** | Privacy platform that includes consent management (also maintains a popular open-source cookie consent library). | Free; Plus from ~$199/mo; Enterprise (custom) | ✅ Free: 1 domain, 5,000 visitors/mo, basic banner only (no script-blocking) |
+| **[Iubenda](https://www.iubenda.com/)** | Privacy and cookie compliance solution with policy generation and consent management. | Free; Essentials from ~€5/mo; Advanced (mid-tier); Ultimate up to ~€80/mo | ✅ Free: 1 website, limited pageviews, Iubenda branding |
+| **[Termly](https://termly.io/)** | User-friendly CMP with auto cookie scanning and legal policy generators. | Free; Starter from ~$10/mo (annual); Pro+ from ~$15/mo (annual); Agency (custom) | ✅ Free: 1 website, 10,000 banner views/mo, quarterly scans, Termly watermark |
+| **[Crownpeak](https://www.crownpeak.com/)** | Enterprise consent and tag governance platform (part of broader DXM suite). | Standard (custom); Enterprise (custom) — contact sales | ❌ No free tier |
+| **[Complianz](https://complianz.io/)** | Popular WordPress-focused cookie consent plugin with compliance templates. | Free; Personal $59/yr (1 site); Professional $179/yr (5 sites); Agency $399/yr (25 sites) | ✅ Free WP plugin: unlimited sites, basic banner & scanning, no geo-detection/consent logging |
 
 ## 🔓 Open-Source Software
 
