@@ -1,5 +1,9 @@
 # Awesome-Cookie-Consent-Platform
 
+<div align="center">
+<img src="assets/banner.svg" alt="Awesome Cookie Consent Platform Banner">
+</div>
+
 ## Similar Projects to Cookie Consent Platforms
 
 **Cookie Consent Platforms** (also called Consent Management Platforms or CMPs) help websites collect, store, and manage user consent for cookies and tracking technologies in compliance with GDPR, ePrivacy, CCPA/CPRA, and other privacy regulations. Leading commercial platforms include Cookiebot, Usercentrics, OneTrust, Didomi, Consentmanager, Osano, Iubenda, Termly, Crownpeak, and Complianz.
