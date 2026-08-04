@@ -4,13 +4,13 @@
 <img src="assets/banner.svg" alt="Awesome Cookie Consent Platform Banner">
 </div>
 
-## Similar Projects to Cookie Consent Platforms
+## 🌟 Similar Projects to Cookie Consent Platforms
 
 **Cookie Consent Platforms** (also called Consent Management Platforms or CMPs) help websites collect, store, and manage user consent for cookies and tracking technologies in compliance with GDPR, ePrivacy, CCPA/CPRA, and other privacy regulations. Leading commercial platforms include Cookiebot, Usercentrics, OneTrust, Didomi, Consentmanager, Osano, Iubenda, Termly, Crownpeak, and Complianz.
 
 Below is a **curated list** of notable platforms and their open-source equivalents. The open-source CMP ecosystem offers several mature, self-hostable options that give full control over consent data and avoid third-party CDN dependency.
 
-## 🏢 SaaS / Hosted Platforms
+## 🏢 SaaS / Hosted Platforms 🚀
 
 | Platform | Description | Pricing Tiers | Free Tier / Limits |
 |----------|-------------|---------------|---------------------|
@@ -25,23 +25,23 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 | **[Crownpeak](https://www.crownpeak.com/)** | Enterprise consent and tag governance platform (part of broader DXM suite). | Standard (custom); Enterprise (custom) — contact sales | ❌ No free tier |
 | **[Complianz](https://complianz.io/)** | Popular WordPress-focused cookie consent plugin with compliance templates. | Free; Personal $59/yr (1 site); Professional $179/yr (5 sites); Agency $399/yr (25 sites) | ✅ Free WP plugin: unlimited sites, basic banner & scanning, no geo-detection/consent logging |
 
-## 🔓 Open-Source Software
+## 🔓 Open-Source Software 💻
 
-### Full / Self-Hosted Consent Management Platforms
+### 🌐 Full / Self-Hosted Consent Management Platforms
 - **[CookieConsent by Orestbida](https://github.com/orestbida/cookieconsent)** [![GitHub stars](https://img.shields.io/github/stars/orestbida/cookieconsent?style=social&color=white)](https://github.com/orestbida/cookieconsent/stargazers) and related modern JavaScript libraries — Accessible, customizable open-source consent banners with good documentation and active community use.
 - **[c15t](https://github.com/c15t/c15t)** [![GitHub stars](https://img.shields.io/github/stars/c15t/c15t?style=social&color=white)](https://github.com/c15t/c15t/stargazers) — Modern, developer-first open-source consent management framework. Framework-agnostic (React, Next.js, Vue, etc.), headless or with prebuilt UI, supports Google Consent Mode v2, IAB TCF, and full customization while keeping consent logic in your own stack.
 - **[Klaro](https://github.com/kiprotect/klaro)** [![GitHub stars](https://img.shields.io/github/stars/kiprotect/klaro?style=social&color=white)](https://github.com/kiprotect/klaro/stargazers) — Popular open-source (MIT) consent manager. Lightweight, highly customizable, supports granular categories, auto-blocking of scripts, and works well for GDPR compliance. Can be self-hosted with no external dependencies.
 - **[ConsentOS](https://github.com/consentos/consentos)** [![GitHub stars](https://img.shields.io/github/stars/consentos/consentos?style=social&color=white)](https://github.com/consentos/consentos/stargazers) — Privacy-first, self-hosted cookie consent management platform positioned as an alternative to OneTrust, Cookiebot, and CookieYes. Includes banner, auto-blocking, scanning, compliance checks, and audit trails.
 
-### Lightweight Open-Source Libraries & Widgets
+### ⚡ Lightweight Open-Source Libraries & Widgets
 - **[Osano Cookie Consent](https://github.com/osano/cookieconsent)** [![GitHub stars](https://img.shields.io/github/stars/osano/cookieconsent?style=social&color=white)](https://github.com/osano/cookieconsent/stargazers) — One of the most widely used open-source JavaScript cookie consent libraries (MIT). Lightweight, free, and designed for GDPR, CCPA, and similar laws. The commercial Osano platform is separate.
 - Community projects such as ConsentStack CMP, 68publishers consent tools, and various GTM-friendly cookie bars that provide banner + consent storage functionality.
 
-### WordPress & Ecosystem Options
+### 🧩 WordPress & Ecosystem Options
 - Open-source or freemium WordPress plugins (e.g., Complianz free tier and similar community plugins) that keep consent data local and avoid heavy external SaaS dependency.
 - Browser-side tools like Consent-O-Matic (open-source extension) that help users manage consents across sites.
 
-### Typical Open-Source Approach
+### 🛠️ Typical Open-Source Approach
 1. **Consent banner & logic** — Klaro, c15t, or Osano Cookie Consent
 2. **Auto-blocking of trackers** — Built-in script/cookie interception in the above tools
 3. **Consent storage & audit** — Local storage + optional self-hosted backend (ConsentOS or custom)
