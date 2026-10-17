@@ -30,6 +30,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 | **[Termly](https://termly.io/)** | User-friendly CMP with auto cookie scanning and legal policy generators. | Free; Starter from ~$10/mo (annual); Pro+ from ~$15/mo (annual); Agency (custom) | ✅ Free: 1 website, 10,000 banner views/mo, quarterly scans, Termly watermark |
 | **[Crownpeak](https://www.crownpeak.com/)** | Enterprise consent and tag governance platform (part of broader DXM suite). | Standard (custom); Enterprise (custom) — contact sales | ❌ No free tier |
 | **[Complianz](https://complianz.io/)** | Popular WordPress-focused cookie consent plugin with compliance templates. | Free; Personal $59/yr (1 site); Professional $179/yr (5 sites); Agency $399/yr (25 sites) | ✅ Free WP plugin: unlimited sites, basic banner & scanning, no geo-detection/consent logging |
+| **[Arqam360](https://arqam360.com/)** | MENA-focused CMP with a native Arabic (RTL) and English banner, Saudi PDPL / UAE PDPL / GDPR rules by visitor country, Google Consent Mode v2 and consent records; apps for Shopify, Zid and WordPress. | Free; Pro $29.99/mo (3 domains); Managed $99.99/mo per domain (set up and run for you) | ✅ Free: 1 domain, 10,000 pageviews/mo, "Powered by Arqam360" link |
 
 ## 🔓 Open-Source Software 💻
 
